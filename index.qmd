@@ -5,3 +5,5 @@ title: "Genevieve Heydt"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+![./images/IMG_20230610_145859.jpg]{width="75%" fig-align="center"}
