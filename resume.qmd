@@ -4,7 +4,7 @@ subtitle: "Project Lead | Data Engineer | Insurance"
 format: html
 ---
 
-# Contact
+**Contact**
 
 **Email:** gheydt14623@gmail.com
 
@@ -19,7 +19,7 @@ Passionate about continual growth, high levels of adaptability, problem-solving 
 
 ## Professional Experience
 
-### Project Lead, Corporate Data Management
+### Project Lead, Data Engineering - Claims, Corporate Data Management
 **Auto-Owners Insurance** | Lansing, MI | April 2026 – Present
 
 - Leads project development and planning for various initiatives
@@ -29,7 +29,7 @@ Passionate about continual growth, high levels of adaptability, problem-solving 
 
 ---
 
-### Senior Software Developer, Corporate Data Management
+### Senior Software Developer, Data Engineering - Claims, Corporate Data Management
 **Auto-Owners Insurance** | Lansing, MI | December 2025 – April 2026
 
 In addition to responsibilities as Software Developer:
@@ -40,7 +40,7 @@ In addition to responsibilities as Software Developer:
 
 ---
 
-### Software Developer, Corporate Data Management
+### Software Developer, Data Engineering - Claims, Corporate Data Management
 **Auto-Owners Insurance** | Lansing, MI | June 2023 – December 2025
 
 - Coded in SQL to support data feeds in data warehouse and data lake environments
@@ -52,7 +52,7 @@ In addition to responsibilities as Software Developer:
 
 ---
 
-### Associate Software Developer, Corporate Data Management
+### Associate Software Developer, Data Engineering - Claims, Corporate Data Management
 **Auto-Owners Insurance** | Lansing, MI | June 2022 – June 2023
 
 - Developed, maintained, and supported software programs for new and existing systems
