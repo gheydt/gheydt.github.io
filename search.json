@@ -1,10 +1,38 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Genevieve Heydt",
+    "section": "",
+    "text": "Email: gheydt14623@gmail.com\n\n\n\nPassionate about continual growth, high levels of adaptability, problem-solving abilities, people skills, communication, and experience in programming. Working experience with collaborative teams, mentoring, and leading projects as a developer. Always learning, highly focused, driven, and initiative-oriented.\n\n\n\n\n\n\nAuto-Owners Insurance | Lansing, MI | April 2026 – Present\n\nLeads project development and planning for various initiatives\nSprint Lead and organizer for agile ceremonies\nOrganizes communication and collaboration across teams\nTrack status updates for project management and team reports\n\n\n\n\n\nAuto-Owners Insurance | Lansing, MI | December 2025 – April 2026\nIn addition to responsibilities as Software Developer:\n\nLeads project development and planning for various initiatives\nAnalyzes and designs systems utilizing structured analysis and design methodologies\nTrains and mentors team members formally and informally\n\n\n\n\n\nAuto-Owners Insurance | Lansing, MI | June 2023 – December 2025\n\nCoded in SQL to support data feeds in data warehouse and data lake environments\nManaged short and long-term projects involving data management and ETL processes\nDelivered solutions to internal and external teams across varying project scopes (maintenance, enhancements, strategic initiatives)\nDeveloped requirements and logic; participated in design and code reviews\nConsulted with users, analysts, architects, project leads, and management to resolve problems and recommend alternatives\n\n\n\n\n\nAuto-Owners Insurance | Lansing, MI | June 2022 – June 2023\n\nDeveloped, maintained, and supported software programs for new and existing systems\nAssisted with analysis and design activities\nParticipated in Agile sprint process, sprint planning, and code reviews\n\n\n\n\n\nAuto-Owners Insurance | Lansing, MI | May 2021 – August 2021\n\nBuilt GLM to model relativities for building age on commercial properties\nCompleted SQL data requests and comparative analysis projects\n\n\n\n\n\n\n\n\nBachelor of Science, Actuarial Sciences\nMinor: Computer Science | Minor: Economics\nUniversity of Michigan | 2022\n\nGPA: 3.99 (High Honors)\nAwards: Maize and Blue Distinguished Scholar Award, Actuarial Mathematics Award\nLeadership: Director of Financial Affairs, Student Government (UM-Flint 2020-2021); Chair, Student Organization Funding Board (UM-Flint 2020-2021)\n\nMaster of Science, Insurance Management\nConcentration: Applied Business Analytics\nUniversity of Boston | Expected to graduate May 2027\n\nCurrent GPA: 3.85\n\n\n\n\n\n\n\n\n\n\n\n\n\nCredential\nIssuing Body\nDate\n\n\n\n\nCPCU (Chartered Casualty-Property Underwriter)\nThe Institutes\n2025\n\n\nAIDA (Associate in Insurance Data Analytics)\nThe Institutes\n2024\n\n\nAINS (Associate in General Insurance)\nThe Institutes\n2023\n\n\nExam FM (Actuarial Exam)\nSOA\n2021"
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Genevieve Heydt",
+    "section": "",
+    "text": "Passionate about continual growth, high levels of adaptability, problem-solving abilities, people skills, communication, and experience in programming. Working experience with collaborative teams, mentoring, and leading projects as a developer. Always learning, highly focused, driven, and initiative-oriented."
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Genevieve Heydt",
+    "section": "",
+    "text": "Auto-Owners Insurance | Lansing, MI | April 2026 – Present\n\nLeads project development and planning for various initiatives\nSprint Lead and organizer for agile ceremonies\nOrganizes communication and collaboration across teams\nTrack status updates for project management and team reports\n\n\n\n\n\nAuto-Owners Insurance | Lansing, MI | December 2025 – April 2026\nIn addition to responsibilities as Software Developer:\n\nLeads project development and planning for various initiatives\nAnalyzes and designs systems utilizing structured analysis and design methodologies\nTrains and mentors team members formally and informally\n\n\n\n\n\nAuto-Owners Insurance | Lansing, MI | June 2023 – December 2025\n\nCoded in SQL to support data feeds in data warehouse and data lake environments\nManaged short and long-term projects involving data management and ETL processes\nDelivered solutions to internal and external teams across varying project scopes (maintenance, enhancements, strategic initiatives)\nDeveloped requirements and logic; participated in design and code reviews\nConsulted with users, analysts, architects, project leads, and management to resolve problems and recommend alternatives\n\n\n\n\n\nAuto-Owners Insurance | Lansing, MI | June 2022 – June 2023\n\nDeveloped, maintained, and supported software programs for new and existing systems\nAssisted with analysis and design activities\nParticipated in Agile sprint process, sprint planning, and code reviews\n\n\n\n\n\nAuto-Owners Insurance | Lansing, MI | May 2021 – August 2021\n\nBuilt GLM to model relativities for building age on commercial properties\nCompleted SQL data requests and comparative analysis projects"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Genevieve Heydt",
+    "section": "",
+    "text": "Bachelor of Science, Actuarial Sciences\nMinor: Computer Science | Minor: Economics\nUniversity of Michigan | 2022\n\nGPA: 3.99 (High Honors)\nAwards: Maize and Blue Distinguished Scholar Award, Actuarial Mathematics Award\nLeadership: Director of Financial Affairs, Student Government (UM-Flint 2020-2021); Chair, Student Organization Funding Board (UM-Flint 2020-2021)\n\nMaster of Science, Insurance Management\nConcentration: Applied Business Analytics\nUniversity of Boston | Expected to graduate May 2027\n\nCurrent GPA: 3.85\n\n\n\n\n\n\n\n\n\n\n\n\n\nCredential\nIssuing Body\nDate\n\n\n\n\nCPCU (Chartered Casualty-Property Underwriter)\nThe Institutes\n2025\n\n\nAIDA (Associate in Insurance Data Analytics)\nThe Institutes\n2024\n\n\nAINS (Associate in General Insurance)\nThe Institutes\n2023\n\n\nExam FM (Actuarial Exam)\nSOA\n2021"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Genevieve Heydt",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a digital portfolio and resume site created by me, Genevieve Heydt.\nI graduated with a BS in Actuarial Mathematics with minors in Computer Science and Economics from the University of Michigan - Flint in 2022. I am currently studying for an MS in Insurance Management with a concentraion in Applied Business Analytics from Boston University. I currently work as a Project Lead for a Data Engineering team at Auto-Owners Insurance in Michigan."
   },
   {
     "objectID": "about.html",
