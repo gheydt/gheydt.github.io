@@ -1,0 +1,99 @@
+---
+title: "Genevieve Heydt"
+subtitle: "Project Lead | Data Engineer | Insurance"
+format: html
+---
+
+# Contact
+
+**Email:** gheydt14623@gmail.com
+
+---
+
+## Summary
+
+Passionate about continual growth, high levels of adaptability, problem-solving abilities, people skills, communication, and experience in programming. Working experience with collaborative teams, mentoring, and leading projects as a developer. Always learning, highly focused, driven, and initiative-oriented.
+
+
+---
+
+## Professional Experience
+
+### Project Lead, Corporate Data Management
+**Auto-Owners Insurance** | Lansing, MI | April 2026 – Present
+
+- Leads project development and planning for various initiatives
+- Sprint Lead and organizer for agile ceremonies
+- Organizes communication and collaboration across teams
+- Track status updates for project management and team reports
+
+---
+
+### Senior Software Developer, Corporate Data Management
+**Auto-Owners Insurance** | Lansing, MI | December 2025 – April 2026
+
+In addition to responsibilities as Software Developer:
+
+- Leads project development and planning for various initiatives
+- Analyzes and designs systems utilizing structured analysis and design methodologies
+- Trains and mentors team members formally and informally
+
+---
+
+### Software Developer, Corporate Data Management
+**Auto-Owners Insurance** | Lansing, MI | June 2023 – December 2025
+
+- Coded in SQL to support data feeds in data warehouse and data lake environments
+- Managed short and long-term projects involving data management and ETL processes
+- Delivered solutions to internal and external teams across varying project scopes (maintenance, enhancements, strategic initiatives)
+- Developed requirements and logic; participated in design and code reviews
+- Consulted with users, analysts, architects, project leads, and management to resolve problems and recommend alternatives
+
+
+---
+
+### Associate Software Developer, Corporate Data Management
+**Auto-Owners Insurance** | Lansing, MI | June 2022 – June 2023
+
+- Developed, maintained, and supported software programs for new and existing systems
+- Assisted with analysis and design activities
+- Participated in Agile sprint process, sprint planning, and code reviews
+
+---
+
+### Actuarial Intern, Commercial Lines Analytics
+**Auto-Owners Insurance** | Lansing, MI | May 2021 – August 2021
+
+- Built GLM to model relativities for building age on commercial properties
+- Completed SQL data requests and comparative analysis projects
+
+---
+
+## Education
+
+### Degree
+
+**Bachelor of Science, Actuarial Sciences**  
+Minor: Computer Science | Minor: Economics  
+*University of Michigan* | 2022
+
+- **GPA:** 3.99 (High Honors)
+- **Awards:** Maize and Blue Distinguished Scholar Award, Actuarial Mathematics Award
+- **Leadership:** Director of Financial Affairs, Student Government (UM-Flint 2020-2021); Chair, Student Organization Funding Board (UM-Flint 2020-2021)
+
+**Master of Science, Insurance Management**  
+Concentration: Applied Business Analytics  
+*University of Boston* | Expected to graduate May 2027
+
+- **Current GPA:** 3.85
+
+---
+
+### Designations & Exams
+
+| Credential | Issuing Body | Date |
+|-----------|-------------|------|
+| CPCU (Chartered Casualty-Property Underwriter) | The Institutes | 2025 |
+| AIDA (Associate in Insurance Data Analytics) | The Institutes | 2024 |
+| AINS (Associate in General Insurance) | The Institutes | 2023 |
+| Exam FM (Actuarial Exam) | SOA | 2021 |

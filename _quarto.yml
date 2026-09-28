@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: resume.qmd
+        text: "Resume"
 
 format:
   html:
@@ -16,6 +18,9 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
+    code-fold: true
+    code-summary: "Show code"
+execute:
+  echo: true
+  eval: true
 
