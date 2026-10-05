@@ -4,6 +4,8 @@ subtitle: "Project Lead | Data Engineer | Insurance"
 format: html
 ---
 
+[Download CV](files/gheydt_cv.pdf)
+
 **Contact**
 
 **Email:** gheydt@bu.edu
