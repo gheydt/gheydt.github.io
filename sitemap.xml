@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gheydt.github.io/resume.html</loc>
-    <lastmod>2026-09-28T21:37:02.123Z</lastmod>
+    <loc>https://gheydt.github.io/contact.html</loc>
+    <lastmod>2026-10-05T21:42:58.784Z</lastmod>
   </url>
   <url>
     <loc>https://gheydt.github.io/index.html</loc>
-    <lastmod>2026-09-28T21:37:02.122Z</lastmod>
+    <lastmod>2026-10-05T21:42:58.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gheydt.github.io/cv.html</loc>
+    <lastmod>2026-10-05T21:42:58.784Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gheydt.github.io/projects.html</loc>
+    <lastmod>2026-10-05T21:42:58.786Z</lastmod>
   </url>
   <url>
     <loc>https://gheydt.github.io/about.html</loc>
-    <lastmod>2026-09-28T21:37:02.120Z</lastmod>
+    <lastmod>2026-10-05T21:42:58.784Z</lastmod>
   </url>
 </urlset>
