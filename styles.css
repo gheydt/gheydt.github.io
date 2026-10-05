@@ -1,1 +1,48 @@
 /* css styles */
+/* Main headings */
+h1, h2, h3, h4 {
+color: #2e7d32;
+}
+ 
+/* Links */
+a {
+color: #388e3c;
+}
+ 
+a:hover {
+color: #1b5e20;
+}
+ 
+/* Table of Contents */
+#TOC {
+background-color: #f1f8f4;
+border-left: 4px solid #4caf50;
+padding: 10px;
+border-radius: 8px;
+}
+ 
+/* Buttons */
+.btn-primary {
+background-color: #4caf50;
+border-color: #4caf50;
+}
+ 
+.btn-primary:hover {
+background-color: #2e7d32;
+border-color: #2e7d32;
+}
+ 
+/* Cards */
+.card {
+border-left: 5px solid #4caf50;
+border-radius: 10px;
+}
+ 
+/* Callout boxes */
+.callout-note {
+border-left-color: #4caf50;
+}
+
+.navbar {
+background-color: #2e7d32 !important;
+}
