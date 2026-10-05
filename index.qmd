@@ -1,8 +1,13 @@
 ---
 title: "Genevieve Heydt"
 ---
-
+::: {.columns}
+ 
+::: {.column width="30%"}
 ![](images/Generic-Ocean-4-scaled.jpg){width="75%" fig-align="center"}
+:::
+ 
+::: {.column width="70%"}
 
 This is a digital portfolio and resume site created by me, Genevieve Heydt.
 
@@ -10,3 +15,4 @@ I graduated with a BS in Actuarial Mathematics with minors in Computer Science a
 I am currently studying for an MS in Insurance Management with a concentraion in Applied Business Analytics from Boston University.
 I currently work as a Project Lead for a Data Engineering team at Auto-Owners Insurance in Michigan.
 
+:::
