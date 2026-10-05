@@ -1,14 +1,8 @@
-::: {.callout-note appearance="simple"}
-# Test
-
-test 2
-:::
-
 ---
 title: "Genevieve Heydt"
 ---
 
-![](images/IMG_20230610_145859.jpg){width="75%" fig-align="center"}
+![](images/Generic-Ocean-4-scaled.jpg){width="75%" fig-align="center"}
 
 This is a digital portfolio and resume site created by me, Genevieve Heydt.
 
