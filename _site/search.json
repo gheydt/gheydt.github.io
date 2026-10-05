@@ -4,13 +4,69 @@
     "href": "index.html",
     "title": "Genevieve Heydt",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a digital portfolio and resume site created by me, Genevieve Heydt.  I graduated with a BS in Actuarial Mathematics with minors in Computer Science and Economics from the University of Michigan-Flint in 2022. I am currently studying for an MS in Insurance Management with a concentraion in Applied Business Analytics from Boston University.  I currently work as a Project Lead for a Data Engineering team at Auto-Owners Insurance in Michigan."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me: Genevieve Heydt",
     "section": "",
-    "text": "About this site"
+    "text": "I am currently working on my Master’s through Boston University, my interests are in software development and analytics. My experience has specifically been in data management and actuarial mathematics, but I love to learn new things!\nMy professional career has kept me on my toes with shifts in technology and the need to constantly develop new skills, and I am always focused on what comes next.\nMy current position is in on the Data Engineering team, specializing in insurance claims data."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Please reach me over email at gheydt@bu.edu\nYou can also find me on LinkedIn:\n\nLinkedIn"
+  },
+  {
+    "objectID": "contact.html#genevieve-heydt",
+    "href": "contact.html#genevieve-heydt",
+    "title": "Contact",
+    "section": "",
+    "text": "Please reach me over email at gheydt@bu.edu\nYou can also find me on LinkedIn:\n\nLinkedIn"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Genevieve Heydt",
+    "section": "",
+    "text": "Download CV\nContact\nEmail: gheydt@bu.edu"
+  },
+  {
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "Genevieve Heydt",
+    "section": "Summary",
+    "text": "Summary\nPassionate about continual growth, high levels of adaptability, problem-solving abilities, people skills, communication, and experience in programming. Working experience with collaborative teams, mentoring, and leading projects as a developer. Always learning, highly focused, driven, and initiative-oriented."
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Genevieve Heydt",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nProject Lead, Data Engineering - Claims, Corporate Data Management\nAuto-Owners Insurance | Lansing, MI | April 2026 – Present\n\nLeads project development and planning for various initiatives\nSprint Lead and organizer for agile ceremonies\nOrganizes communication and collaboration across teams\nTrack status updates for project management and team reports\n\n\n\n\nSenior Software Developer, Data Engineering - Claims, Corporate Data Management\nAuto-Owners Insurance | Lansing, MI | December 2025 – April 2026\nIn addition to responsibilities as Software Developer:\n\nLeads project development and planning for various initiatives\nAnalyzes and designs systems utilizing structured analysis and design methodologies\nTrains and mentors team members formally and informally\n\n\n\n\nSoftware Developer, Data Engineering - Claims, Corporate Data Management\nAuto-Owners Insurance | Lansing, MI | June 2023 – December 2025\n\nCoded in SQL to support data feeds in data warehouse and data lake environments\nManaged short and long-term projects involving data management and ETL processes\nDelivered solutions to internal and external teams across varying project scopes (maintenance, enhancements, strategic initiatives)\nDeveloped requirements and logic; participated in design and code reviews\nConsulted with users, analysts, architects, project leads, and management to resolve problems and recommend alternatives\n\n\n\n\nAssociate Software Developer, Data Engineering - Claims, Corporate Data Management\nAuto-Owners Insurance | Lansing, MI | June 2022 – June 2023\n\nDeveloped, maintained, and supported software programs for new and existing systems\nAssisted with analysis and design activities\nParticipated in Agile sprint process, sprint planning, and code reviews\n\n\n\n\nActuarial Intern, Commercial Lines Analytics\nAuto-Owners Insurance | Lansing, MI | May 2021 – August 2021\n\nBuilt GLM to model relativities for building age on commercial properties\nCompleted SQL data requests and comparative analysis projects"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Genevieve Heydt",
+    "section": "Education",
+    "text": "Education\n\nDegree\nBachelor of Science, Actuarial Sciences\nMinor: Computer Science | Minor: Economics\nUniversity of Michigan | 2022\n\nGPA: 3.99 (High Honors)\nAwards: Maize and Blue Distinguished Scholar Award, Actuarial Mathematics Award\nLeadership: Director of Financial Affairs, Student Government (UM-Flint 2020-2021); Chair, Student Organization Funding Board (UM-Flint 2020-2021)\n\nMaster of Science, Insurance Management\nConcentration: Applied Business Analytics\nUniversity of Boston | Expected to graduate May 2027\n\nCurrent GPA: 3.85\n\n\n\n\nDesignations & Exams\n\n\n\n\n\n\n\n\nCredential\nIssuing Body\nDate\n\n\n\n\nCPCU (Chartered Casualty-Property Underwriter)\nThe Institutes\n2025\n\n\nAIDA (Associate in Insurance Data Analytics)\nThe Institutes\n2024\n\n\nAINS (Associate in General Insurance)\nThe Institutes\n2023\n\n\nExam FM (Actuarial Exam)\nSOA\n2021"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This project involves analyzing the job market for insurance data engineers, focusing on trends, demand, and required skills. The analysis includes data collection from job postings, statistical analysis, and visualization to provide insights into the current state of the job market for professionals in this field. This project was done through a Big Data and Cloud Analytics course through Boston University, and was a group project.\n\nProject Website"
+  },
+  {
+    "objectID": "projects.html#insurance-data-engineer-job-market-analysis",
+    "href": "projects.html#insurance-data-engineer-job-market-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "This project involves analyzing the job market for insurance data engineers, focusing on trends, demand, and required skills. The analysis includes data collection from job postings, statistical analysis, and visualization to provide insights into the current state of the job market for professionals in this field. This project was done through a Big Data and Cloud Analytics course through Boston University, and was a group project.\n\nProject Website"
   }
 ]
